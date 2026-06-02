@@ -13,10 +13,8 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://colinee.tistory.com) 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:corinee39@gmail.com)
 
-<br> 
+</br> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corinee39&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corinee39&layout=compact)](https://github.com/corinee39/github-readme-stats)
 
     
