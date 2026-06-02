@@ -15,5 +15,8 @@
 
 <br> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=corinee39&bg_color=180,e2adff,00000000&title_color=ffffff&text_color=ffffff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corinee39&layout=compact&bg_color=180,e2adff,00000000&title_color=ffffff&text_color=ffffff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corinee39&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corinee39&layout=compact)](https://github.com/corinee39/github-readme-stats)
+
     
