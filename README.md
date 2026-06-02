@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Gmail](https://img.shields.io/badge/corinee39@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+https://img.shields.io/badge/corinee39@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <!--
 **corinee39/corinee39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
